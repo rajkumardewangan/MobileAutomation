@@ -1,0 +1,30 @@
+0 [main] INFO com.utility.Log  - ****************************************************************************************
+1 [main] INFO com.utility.Log  - ****************************************************************************************
+1 [main] INFO com.utility.Log  - $$$$$$$$$$$$$$$$$$$$$                 S T A R T       $$$$$$$$$$$$$$$$$$$$$$$$$
+1 [main] INFO com.utility.Log  - ****************************************************************************************
+1 [main] INFO com.utility.Log  - ****************************************************************************************
+1 [main] INFO com.utility.Log  - Starting Android driver
+12689 [main] INFO com.utility.Log  - Test execution starts
+16210 [main] INFO com.utility.Log  - User click on Already a member button
+20154 [main] INFO com.utility.Log  - User enter the user name :rajkumardewangan97@gmail.com
+23372 [main] INFO com.utility.Log  - User click on continue button
+26523 [main] INFO com.utility.Log  - User enter the password
+29742 [main] INFO com.utility.Log  - User click on Sign In Button
+41813 [main] INFO com.utility.Log  - Expected value :Home , Actual Value : Home
+41813 [main] INFO com.utility.Log  - User Login successfully into the amazon App
+55341 [main] INFO com.utility.Log  - User search for the item :65 inch TV
+64309 [main] INFO com.utility.Log  - Scrolling screen vertically
+67431 [main] INFO com.utility.Log  - Item Selected :TCL 65" 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV - 65S535
+94266 [main] INFO com.utility.Log  - Expected Description :TCL 65" 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV - 65S535, Actual Description :TCL 65" 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV - 65S535
+94266 [main] INFO com.utility.Log  - Verify the selected item description on Item Description screen
+100024 [main] INFO com.utility.Log  - Added item to cart
+106810 [main] INFO com.utility.Log  - User click on the cart icon
+113202 [main] INFO com.utility.Log  - Expected screen size is 65 inch
+113202 [main] INFO com.utility.Log  - Expected screen resolution is 4K
+113202 [main] INFO com.utility.Log  - Expected Tv is Smart TV
+113202 [main] INFO com.utility.Log  - TCL 65" 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV - 65S535
+122102 [main] INFO com.utility.Log  - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+
+

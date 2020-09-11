@@ -56,7 +56,7 @@ public class Driverfactory extends ReadProperty{
 			capabilities.setCapability("appPackage", prop.getProperty("IOS_appPackage"));
 			capabilities.setCapability("appActivity", prop.getProperty("IOS_appActivity")); 
 			capabilities.setCapability("automationName", prop.getProperty("IOS_automationName")); 
-			capabilities.setCapability("app",  System.getProperty("user.dir") + "/Resource/Amazon_shopping.apk"); 
+			capabilities.setCapability("app",  System.getProperty("user.dir") + "/Resource/"+ prop.getProperty("Android_AppName"));
 			capabilities.setCapability("unicodeKeyboard", "true"); 
 			return capabilities;
 		}
@@ -69,7 +69,7 @@ public class Driverfactory extends ReadProperty{
 			capabilities.setCapability("appPackage", prop.getProperty("ANDROID_appPackage"));
 			capabilities.setCapability("appActivity", prop.getProperty("ANDROID_appActivity")); 
 			capabilities.setCapability("automationName", prop.getProperty("ANDROID_automationName")); 
-			capabilities.setCapability("app",  System.getProperty("user.dir") + "/Resource/Amazon_shopping.apk"); 
+			capabilities.setCapability("app",  System.getProperty("user.dir") + "/Resource/"+ prop.getProperty("IOS_AppName"));
 			capabilities.setCapability("unicodeKeyboard", "true"); 
 			return capabilities;
 		}
